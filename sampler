@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+ <!DOCTYPE html>
 <html lang="en">
 <head>
    <meta charset="UFT-8">
@@ -9,20 +9,18 @@
 
 <h1>Ammar Shafique</h1>
 <nav>
-<a href="#">One</a>
-<a href="#">Two</a>
-<a href="#">Three</a>
-<a href="#"><mark>My Choice</mark></a>
-
+<a herf="htttp://example.com/1>"One</a>
+<a herf="htttp://example.com/2>"Two</a>
+<a herf="htttp://example.com/3>"Three</a>
+<a herf="htttp://huxuan.org/">MyChoice</a>
 </nav>
 <section>
 <h2>Favorite Foods</h2>
 </ul>
-<li><mark>Apples</mark></li>
-<li><mark>Pizza</mark></li>
-<li><mark>Biryani</mark></li>
-<li><mark>Chocolate Cake</mark></li>
-
+<li>Pizza</li>
+<li>pullao</li>
+<li>briyani</li>
+<li>soup</li>
 </ul>
 </section>
 <section>
@@ -38,16 +36,16 @@ progress in life goals(25%)
 </section>
 <section>
 <h2>More About Me</h2>
-<details>
 <summary>My Childhood</summary>
-
 I am a good boy who waste most of his time in surfing internet and aslo waste his precious time playing PUBG that's not good but i don't care. :)
-</details>
 </section>
 <footer>
 <img src="http://www.intro-webdesign.com/images/newlogo.png " alt="web design for everyone">
-This page was created by Ammar Shafique .&amp; colleen van lent.
-To learn more about web design,visit <a href=" http://www.intro-webdesign.com." target="_blank">Intro to Web Design</a></p>
+this page was created by Ammar Shafique . &amp; colleen van lent.
+To learn more about web design,visit
+<a herf="http://www.intro-webdesign.com/">
+Intro to Web Design</a>.
 </footer>
 
 </body>
+</html>
