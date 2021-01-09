@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="UFT-8">
+  <title>FINAL PROJECT</title>
+</head>
+<body>
+ <header>
+
+<h1>Ammar Shafique</h1>
+<nav>
+<a href="#">One</a>
+<a href="#">Two</a>
+<a href="#">Three</a>
+<a href="#"><mark>My Choice</mark></a>
+
+</nav>
+<section>
+<h2>Favorite Foods</h2>
+</ul>
+<li><mark>Apples</mark></li>
+<li><mark>Pizza</mark></li>
+<li><mark>Biryani</mark></li>
+<li><mark>Chocolate Cake</mark></li>
+
+</ul>
+</section>
+<section>
+<h2>Achievements</h2>
+progress in this course(100%)
+<progress value="100" max="100"></progress>
+<br>
+progress in the specialization capstone(20%)
+<progress value="20" max="100"></progress>
+<br>
+progress in life goals(25%)
+<progress value="25" max="100"></progress>
+</section>
+<section>
+<h2>More About Me</h2>
+<details>
+<summary>My Childhood</summary>
+
+I am a good boy who waste most of his time in surfing internet and aslo waste his precious time playing PUBG that's not good but i don't care. :)
+</details>
+</section>
+<footer>
+<img src="http://www.intro-webdesign.com/images/newlogo.png " alt="web design for everyone">
+This page was created by Ammar Shafique .&amp; colleen van lent.
+To learn more about web design,visit <a href=" http://www.intro-webdesign.com." target="_blank">Intro to Web Design</a></p>
+</footer>
+
+</body>
